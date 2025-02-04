@@ -1,6 +1,6 @@
 # HNG12-Backend-projects
 This repo will contain my hng internship tasks
-https://hng.tech/hire/python-developers
+https://hng.tech/hire/php-developers
 # HNG12 Stage 0 Backend Task
 
 This is a simple PHP API that returns basic information in JSON format.
